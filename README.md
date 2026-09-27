@@ -10,3 +10,8 @@ Build **Loan Default Prediction Model**
 
 1. Random Forest
 2. XGBOOST
+
+**XGBoost achieved 93.87% accuracy and 0.876 ROC-AUC**, demonstrating strong overall classification performance.
+- **94.52% precision** means the model's high-risk predictions were highly reliable.
+- **76.47% default recall** enabled the model to identify the majority of actual defaulters.
+- **F1-score improved from 74.88% → 84.54%**, showing a stronger precision–recall balance.
